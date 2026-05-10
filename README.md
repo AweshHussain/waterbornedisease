@@ -84,11 +84,10 @@ This project was developed as part of the Smart India Hackathon (SIH) under Team
 
 *Add your screenshots inside an `images` folder*
 
-```md
+
 ![GitHub Contributions](images/contribution1.png)
 ![Commit History](images/contribution2.png)
-![Deployment Work](images/contribution3.png)
-```
+
 
 ---
 
