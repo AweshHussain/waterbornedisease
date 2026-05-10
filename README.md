@@ -1,16 +1,19 @@
 # 💧 Waterborne Disease Monitoring System
 
-## 🏆 Smart India Hackathon (SIH) Project  
+## 🏆 Smart India Hackathon (SIH) Project
+
 ### 👨‍💻 Team: CEREBRO TECH
 
 ---
 
 ## 🚀 Live Demo
-🌐 https://samiasayeed305.github.io/waterbornedisease/
+
+🌐 [https://samiasayeed305.github.io/waterbornedisease/](https://samiasayeed305.github.io/waterbornedisease/)
 
 ---
 
 ## 📌 Project Overview
+
 The Waterborne Disease Monitoring System is a web-based healthcare platform developed to help monitor, report, and manage waterborne diseases efficiently. The system provides role-based access for ASHA workers, volunteers, administrators, and patients.
 
 This project was developed as part of the Smart India Hackathon (SIH) under Team CEREBRO TECH.
@@ -18,54 +21,87 @@ This project was developed as part of the Smart India Hackathon (SIH) under Team
 ---
 
 ## ✅ Features
-- 🔐 User Authentication System
-- 👥 Multi-role Access (ASHA, Volunteer, Admin, Patient)
-- ☁️ IBM Cloudant Database Integration
-- 🌍 Multi-language Support
-- 📱 Responsive User Interface
-- 📊 Dashboard System
-- 🔒 Secure Login & Registration
+
+* 🔐 User Authentication System
+* 👥 Multi-role Access (ASHA, Volunteer, Admin, Patient)
+* ☁️ IBM Cloudant Database Integration
+* 🌍 Multi-language Support
+* 📱 Responsive User Interface
+* 📊 Dashboard System
+* 🔒 Secure Login & Registration
 
 ---
 
 ## 🛠️ Technology Stack
 
 ### Frontend
-- HTML
-- CSS
-- JavaScript
+
+* HTML
+* CSS
+* JavaScript
 
 ### Backend
-- Python (Flask)
 
+* Python
+* Flask
 
 ### Database
-- IBM Cloudant
+
+* IBM Cloudant
+
+### Deployment
+
+* Railway
+* GitHub Pages
 
 ---
 
 ## 👨‍💻 Team Members – CEREBRO TECH
-- Awesh Hussain
-- Samia Sayeed
-- Syed Mohammad Sohaib Hussain
-- SM Zaid Iqbal
-- Minhaj Hussain
-- Muntassar Rehan
+
+* Awesh Hussain
+* Samia Sayeed
+* Syed Mohammad Sohaib Hussain
+* SM Zaid Iqbal
+* Minhaj Hussain
+* Muntassar Rehan
 
 ---
 
-## 📸 Contribution & Development Proof
+## 📸 My Contributions
 
-### My Contributions
-- Contributed to frontend and backend development
-- Assisted in UI/UX improvements
-- Worked on feature integration and testing
-- Collaborated with team members throughout the project
+### Major Contributions by Awesh Hussain
+
+* Developed the complete frontend of the project
+* Built the backend using Python Flask
+* Integrated IBM Cloudant database
+* Implemented authentication and role-based access
+* Designed and developed dashboards
+* Managed deployment using Railway and GitHub Pages
+* Worked on UI/UX improvements and responsiveness
+* Assisted in testing and project integration
 
 ### Contribution Screenshots
-_Add your screenshots inside an `images` folder_
+
+*Add your screenshots inside an `images` folder*
 
 ```md
 ![GitHub Contributions](images/contribution1.png)
 ![Commit History](images/contribution2.png)
-![Project Work](images/contribution3.png)
+![Deployment Work](images/contribution3.png)
+```
+
+---
+
+## 📞 Contact & Search on Google
+
+📧 Email: [awesh875@gmail.com](mailto:awesh875@gmail.com)
+
+You can also find our project on Google by searching:
+
+### **SAMAJ HEALTH SURAKSHA - LOGIN PORTAL**
+
+---
+
+## 🌟 Acknowledgement
+
+This project was developed collaboratively under Team CEREBRO TECH for Smart India Hackathon (SIH 2025).
